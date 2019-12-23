@@ -1,6 +1,6 @@
 <ul>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Machine-Learning-Papers/blob/master/awe(1).pdf" style="text-decoration:none;"> Binarized Neural Networks: Training Neural Networks withWeights and Activations Constrained to +1 or -1</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Machine-Learning-Papers/blob/master/awe(1).pdf" style="text-decoration:none;"> Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to +1 or -1</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Machine-Learning-Papers/blob/master/awe(2).pdf" style="text-decoration:none;">Value Iteration Networks</a></b></li>
 
